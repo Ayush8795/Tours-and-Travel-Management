@@ -8,9 +8,8 @@ The Tour Management Application is a Spring Boot-based system designed to manage
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
+
+
 
 ## Features
 
